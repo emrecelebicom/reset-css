@@ -1,7 +1,7 @@
 {
   "name": "@emrecelebicom/reset-css",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "dist/reset.css",
   "repository": "https://github.com/emrecelebicom/reset-css",
   "author": "emrecelebi <emrecelebi@outlook.com>",
   "license": "MIT",
